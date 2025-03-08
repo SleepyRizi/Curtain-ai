@@ -390,7 +390,7 @@ function App() {
   // --------------------------------------------------------------
   // Use only Curtain4 Model (hardcoded URL)
   // --------------------------------------------------------------
-  const modelUrl = "/assets/models/curtain1.glb";
+  const modelUrl = "/home/ubuntu/Curtain-ai/public/assets/";
 
 
   // --------------------------------------------------------------
